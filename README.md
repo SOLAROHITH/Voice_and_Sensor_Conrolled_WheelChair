@@ -1,4 +1,4 @@
-# Engineering-Clinics-1
+# VOICE AND SENSOR CONTROLLED WHEELCHAIR
 
 # SUMMARY OF THE PROJECT: 
 •	The voice and sensor-controlled wheelchair project is designed to assist people with mobility impairments. The project utilizes a Raspberry Pi microcontroller and a set of sensors to detect the user's movements and voice commands to control the wheelchair.
